@@ -3,6 +3,16 @@
 * [Introduction](#Introduction)
 * [Technologies](#Technologies)
 * [Scope of functionality](#Scope-of-functionality)
+  *   [CMD.py](#Module:-CMD)
+  *   [level.py](#Module:-level)
+  *   [player.py](#Module:-player)
+  *   [fight_move.py](#Module:-fight_move)
+  *   [room.py](#Module:-room)
+  *   [item.py](#Module:-item)
+      *   [**Food**](#**Class:**-Food(item))
+      *   [**Scroll**](#**Class:**-Scroll(item))
+      *   [**Enhancement**](#**Class:**-Enhancement(item))
+      *   [**Armor**](#**Class:**-Armor(item))
 
 #  Introduction
 
