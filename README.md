@@ -30,12 +30,12 @@ The package is developed in pure Python3.8
 The package provides multiple tools that make it easy to start developing a simple Text Based Game.
 
 Your project folder should include the following modules:
--   [CMD.py](#Module:-CMD)
--   [level.py](#Module:-level)
--   [player.py](#Module:-player)
--   [fight_move.py](#Module:-fight_move)
--   [room.py](#Module:-room)
--   [item.py](#Module:-item)
+*   [CMD.py](#Module:-CMD)
+*   [level.py](#Module:-level)
+*   [player.py](#Module:-player)
+*   [fight_move.py](#Module:-fight_move)
+*   [room.py](#Module:-room)
+*   [item.py](#Module:-item)
 
 # Module: CMD
 
